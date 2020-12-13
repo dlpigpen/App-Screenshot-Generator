@@ -1,5 +1,3 @@
-# App-Screenshot-Generator
-
 # Ascreenshot generator website. 
 
 Support both iOS and Android screenshots. It's free, please try it at the link: https://appscr.co/
